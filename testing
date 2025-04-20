@@ -12,8 +12,8 @@ local Window = Rayfield:CreateWindow({
 
    ConfigurationSaving = {
       Enabled = true,
-      FolderName = "Polluted settings",
-      FileName = "loader"
+      FolderName = nil,
+      FileName = "Big Hub"
    },
 
    Discord = {
